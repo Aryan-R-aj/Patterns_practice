@@ -9,7 +9,7 @@ public class pattern_no2 {
     }
 }
 /*
-pattern output
+star pattern output.
 * * * * *
 * * * * *
 * * * * *
